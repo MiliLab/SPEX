@@ -19,12 +19,12 @@
 
 
 <h5 align="center">
-<a href="https://arxiv.org/pdf/2508.05202"> <img src="https://img.shields.io/badge/Arxiv-2508.05202-b31b1b.svg?logo=arXiv"></a>
+<a href="https://arxiv.org/abs/2508.05202"> <img src="https://img.shields.io/badge/Arxiv-2508.05202-b31b1b.svg?logo=arXiv"></a>
 </h5>
 
 # 🔥 Update
 **2025.08.08**
-- We uploaded our work on [arXiv](https://arxiv.org/pdf/2508.05202).
+- We uploaded our work on [arXiv](https://arxiv.org/abs/2508.05202).
 
 # 🌞 Intro
 Spectral information has long been recognized as a critical cue in remote sensing observations. Although numerous vision-language models have been developed for pixel-level interpretation, spectral information remains underutilized, resulting in suboptimal performance, particularly in multispectral scenarios. To address this limitation, we construct a vision-language instruction-following dataset named SPIE, which encodes spectral priors of land-cover objects into textual attributes recognizable by large language models (LLMs), based on classical spectral index computations. Leveraging this dataset, we propose SPEX, a multimodal LLM designed for instruction-driven land cover extraction. To this end, we introduce several carefully designed components and training strategies, including multiscale feature aggregation, token context condensation, and multispectral visual pre-training, to achieve precise and flexible pixel-level interpretation. To the best of our knowledge, SPEX is the first multimodal vision-language model dedicated to land cover extraction in spectral remote sensing imagery. Extensive experiments on five public multispectral datasets demonstrate that SPEX consistently outperforms existing state-of-the-art methods in extracting typical land cover categories such as vegetation, buildings, and water bodies. Moreover, SPEX is capable of generating textual explanations for its predictions, thereby enhancing interpretability and user-friendliness.
