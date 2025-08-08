@@ -42,7 +42,7 @@ Spectral information has long been recognized as a critical cue in remote sensin
 
 # :eyes: Visualization
 <figure>
-<img src="Figs/water.png">
+<img src="figs/water.png">
 <figcaption align = "center"><b>Figure 2: Water body extraction examples with masks highlighted in blue
  </b></figcaption>
 </figure>
