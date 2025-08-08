@@ -59,7 +59,7 @@ The code will be released soon.
 
 # ⭐ Citation
 
-If you find TiMo helpful, please consider giving this repo a ⭐ and citing:
+If you find SPEX helpful, please consider giving this repo a ⭐ and citing:
 
 ```latex
 @article{SPEX,
