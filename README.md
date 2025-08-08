@@ -19,7 +19,7 @@
 
 
 <h5 align="center">
-<a href="https://arxiv.org/pdf/2508.05202"> <img src="https://img.shields.io/badge/Arxiv-2505.08723-b31b1b.svg?logo=arXiv"></a>
+<a href="https://arxiv.org/pdf/2508.05202"> <img src="https://img.shields.io/badge/Arxiv-2508.05202-b31b1b.svg?logo=arXiv"></a>
 </h5>
 
 # 🔥 Update
