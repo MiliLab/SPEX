@@ -35,7 +35,7 @@ Spectral information has long been recognized as a critical cue in remote sensin
 <img src="figs/Method.png">
 </div>
 <div align="center">
-<figcaption align = "center"><b>Figure 1. Comparison of various methods for land cover extraction. (a) combines traditional spectral index techniques with machine learning methods; (b) directly trains segmentation networks on multispectral images; (c) first pre-trains visual models on large-scale images, which are then used as backbones for segmentation networks; (d) further extends this approach by introducing a language model, enabling flexible and interactive interpretations guided by textual instructions 
+<figcaption align = "center"><b>Figure 1. Comparison of various methods for land cover extraction. 
  </b></figcaption>
 </div>
 </figure>
@@ -43,8 +43,11 @@ Spectral information has long been recognized as a critical cue in remote sensin
 # :eyes: Visualization
 <figure>
 <img src="figs/water.png">
-<figcaption align = "center"><b>Figure 2: Water body extraction examples with masks highlighted in blue
+</div>
+<div align="center">
+<figcaption align = "center"><b>Figure 2: Water body extraction examples with masks highlighted in blue.
  </b></figcaption>
+</div>
 </figure>
 
 # 📖 Datasets
