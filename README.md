@@ -32,10 +32,10 @@ Spectral information has long been recognized as a critical cue in remote sensin
 # 🔍 Overview
 <figure>
 <div align="center">
-<img src="figs/Method.png">
+<img src="figs/model.png">
 </div>
 <div align="center">
-<figcaption align = "center"><b>Figure 1. Comparison of various methods for land cover extraction. 
+<figcaption align = "center"><b>Figure 1. Overall workflow of the proposed method. 
  </b></figcaption>
 </div>
 </figure>
