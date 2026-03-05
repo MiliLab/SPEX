@@ -23,6 +23,10 @@
 </h5>
 
 # 🔥 Update
+
+**2026.02.25**
+- The paper is accepted by IEEE TGRS!
+
 **2025.08.08**
 - We uploaded our work on [arXiv](https://arxiv.org/abs/2508.05202).
 
