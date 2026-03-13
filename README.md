@@ -20,9 +20,14 @@
 
 <h5 align="center">
 <a href="https://arxiv.org/abs/2508.05202"> <img src="https://img.shields.io/badge/Arxiv-2508.05202-b31b1b.svg?logo=arXiv"></a>
+  <a href="https://ieeexplore.ieee.org/document/11421647"><img src="https://img.shields.io/badge/TGRS-Paper-blue"></a>
 </h5>
 
 # 🔥 Update
+
+**2026.03.04**
+- The main paper is online published! Please see **[here](https://ieeexplore.ieee.org/document/11421647)**.
+
 
 **2026.02.25**
 - The paper is accepted by IEEE TGRS!
