@@ -77,19 +77,11 @@ The SPIE dataset has been released. Link:[Datasets](https://pan.quark.cn/s/0a10a
 For inference, please refer to [demo.py](https://github.com/MiliLab/SPEX/blob/main/demo.py).
 
 # 🔧 Usage (Training & Inference)
-Training (Single/Multi-GPU):
-# Set the number of GPUs
-GPUS=1
-# Start training
-sh scripts/finetune.sh ${GPUS}
-Note: Adjust GPUS to the number of GPUs you want to use for single or multi-GPU training.
 
-Inference：
-# Specify the GPU to use
-CUDA_VISIBLE_DEVICES=0
-
-# Run inference
-python demo.py --model_path <MODEL_PATH> --image_folder <IMAGE_FILE> --question_file <SPECTRAL_PROMPT.txt>
+- Installation 💻: Set up the SPEX conda environment, install dependencies, and clone the repo.
+- Training 🏋️‍♂️: Run scripts/finetune.sh with DeepSpeed, modifying parameters like data and model paths for training.
+- Inference 🎯: Execute demo.py to perform model inference, specifying the model path, image folder, and spectral prompt file. Update the paths as needed.
+- CUDA_VISIBLE_DEVICES=0 python demo.py --model_path <MODEL_PATH> --image_folder <IMAGE_FILE> --question_file <SPECTRAL_PROMPT.txt>
 
 # ⭐ Citation
 
