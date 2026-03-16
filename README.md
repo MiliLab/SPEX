@@ -65,6 +65,11 @@ Spectral information has long been recognized as a critical cue in remote sensin
 - CUDA 12.1 and above is recommended (Please follow the instructions [here](https://pytorch.org/get-started/locally/) to install both PyTorch and TorchVision dependencies)
 - [flash-attention2](https://github.com/Dao-AILab/flash-attention) is required for high-resolution usage
   
+# 📖 model weight
+The model weight has been released. Link: [weight](https://pan.quark.cn/s/cc32d2dc3915), Access code: zMZp
+
+# 📖 Datasets
+The SPIE dataset has been released. Link:[Datasets](https://pan.quark.cn/s/0a10a815b732), Access code: iirm
 
 # 🔨 demo code
 For inference, please refer to [demo.py](https://github.com/MiliLab/SPEX/blob/main/demo.py).
