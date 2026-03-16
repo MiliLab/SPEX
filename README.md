@@ -25,9 +25,11 @@
 
 # 🔥 Update
 
+**2026.03.16**
+- The SPIE dataset and the corresponding SPEX code have been released.
+
 **2026.03.04**
 - The main paper is online published! Please see **[here](https://ieeexplore.ieee.org/document/11421647)**.
-
 
 **2026.02.25**
 - The paper is accepted by IEEE TGRS!
@@ -74,9 +76,20 @@ The SPIE dataset has been released. Link:[Datasets](https://pan.quark.cn/s/0a10a
 # 🔨 demo code
 For inference, please refer to [demo.py](https://github.com/MiliLab/SPEX/blob/main/demo.py).
 
-# 🔧 Usage
+# 🔧 Usage (Training & Inference)
+Training (Single/Multi-GPU):
+# Set the number of GPUs
+GPUS=1
+# Start training
+sh scripts/finetune.sh ${GPUS}
+Note: Adjust GPUS to the number of GPUs you want to use for single or multi-GPU training.
 
-Please refer to [Readme.md](https://github.com/MiliLab/SPEX/blob/main/README.md) for installation, training and inference.
+Inference：
+# Specify the GPU to use
+CUDA_VISIBLE_DEVICES=0
+
+# Run inference
+python demo.py --model_path <MODEL_PATH> --image_folder <IMAGE_FILE> --question_file <SPECTRAL_PROMPT.txt>
 
 # ⭐ Citation
 
