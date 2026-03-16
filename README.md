@@ -84,9 +84,14 @@ If you find SPEX helpful, please consider giving this repo a ⭐ and citing:
 
 ```latex
 @article{SPEX,
-      title={SPEX: A Vision-Language Model for Land Cover Extraction on Spectral Remote Sensing Images}, 
-      author={Dongchen Si and Di Wang and Erzhong Gao and Xiaolei Qin and Liu Zhao and Jing Zhang and Minqiang Xu and Jianbo Zhan and Jianshe Wang and Lin Liu and Bo Du and Liangpei Zhang},
-      journal={arXiv preprint arXiv:2508.05202},
-      year={2025}
-}
+  author={Si, Dongchen and Wang, Di and Gao, Erzhong and Qin, Xiaolei and Zhao, Liu and Zhang, Jing and Xu, Minqiang and Zhan, Jianbo and Wang, Jianshe and Liu, Lin and Du, Bo and Zhang, Liangpei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={SPEX: A Vision-Language Model for Land Cover Extraction on Spectral Remote Sensing Images}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Remote sensing;Land surface;Feature extraction;Visualization;Image segmentation;Data mining;Decoding;Adaptation models;Large language models;Indexes;Remote Sensing;Multispectral;Vision-Language Model;Instruction-Driven;Land Cover Extraction},
+  doi={10.1109/TGRS.2026.3670308}}
+
 ```
