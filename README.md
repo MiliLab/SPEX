@@ -81,7 +81,7 @@ For inference, please refer to [demo.py](https://github.com/MiliLab/SPEX/blob/ma
 - Installation 💻: Set up the SPEX conda environment, install dependencies, and clone the repo.
 - Training 🏋️‍♂️: Run scripts/finetune.sh with DeepSpeed, modifying parameters like data and model paths for training.
 - Inference 🎯: Execute demo.py to perform model inference, specifying the model path, image folder, and spectral prompt file. Update the paths as needed.
-- CUDA_VISIBLE_DEVICES=0 python demo.py --model_path <MODEL_PATH> --image_folder <IMAGE_FILE> --question_file <SPECTRAL_PROMPT.txt>
+  - CUDA_VISIBLE_DEVICES=0 python demo.py --model_path <MODEL_PATH> --image_folder <IMAGE_FILE> --question_file <SPECTRAL_PROMPT.txt>
 
 # ⭐ Citation
 
